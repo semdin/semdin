@@ -77,7 +77,8 @@
       </div>
     </div>
   </foreignObject>
-</svgg
+</svg>
+
 <h3 align="center">A passionate Software Developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Full-Stack Developing**
