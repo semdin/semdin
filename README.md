@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Mehmet Aktay
-I am a software engineer passionate about open-source, web development, and AI. Currently diving into advanced algorithms and machine learning. 
+I am a software engineer passionate about open-source, web development, and AI. Currently diving into advanced algorithms and machine learning.
 
 ### 🚀 Projects & Contributions
 - Working on AI-driven web apps and plugins for various platforms.
@@ -12,7 +12,14 @@ I am a software engineer passionate about open-source, web development, and AI. 
 - **Tools:** Git, VS Code, JIRA, Postman
 
 ### 📊 GitHub Stats
-![Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=semdin&theme=transparent&hide_border=true)
+![Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=semdin&theme=transparent&hide_border=true&show_icons=true&count_private=true)
+![Mehmet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=semdin&theme=transparent&hide_border=true)
+
+### 🔝 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semdin&theme=transparent&hide_border=true&layout=compact)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=semdin&theme=flat&no-frame=true&row=1&column=6)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/semdinaktay) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@semdin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/semdinakt)
